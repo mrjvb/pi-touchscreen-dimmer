@@ -1,4 +1,4 @@
-# pi-touchscreen-dimmer
+# tinkerboard-touchscreen-dimmer
 Leaving the backlight on the Official Raspberry Pi touchscreen can quickly wear it out and waste power.
 If you have a use that requires the pi to be on all the time, but does not require the
 display on all the time, then turning off the backlight or dimming it while not in use can dramatically
